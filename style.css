@@ -1,0 +1,29 @@
+.warpper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    width: 980px;
+    height: 140px;
+    background-color: aqua;
+}
+nav{
+    width: 270px;
+    height: 450px;
+    background-color: aqua;
+    margin-top: 15px;
+}
+article{
+    width: 690px;
+    height: 450px;
+    background-color: aqua;
+    margin-top: -450px;
+    margin-left: 285px;
+}
+Footer{
+    width: 980px;
+    height: 70px;
+    background-color: aqua;
+    margin-top: 15px;
+}
